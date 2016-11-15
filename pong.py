@@ -1,3 +1,7 @@
+"""
+A simple game of Pong
+"""
+
 import os
 import sys
 import random

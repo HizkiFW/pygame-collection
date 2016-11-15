@@ -1,6 +1,5 @@
 """
-Python Pygame Test Game
-Copyright HizkFW
+Avoid the red dots.
 """
 
 import os

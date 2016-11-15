@@ -1,3 +1,7 @@
+"""
+Flappy Bird, but with a square instead
+"""
+
 import os
 import sys
 import random
